@@ -1,0 +1,16 @@
+C:\Users\007309\source\repos\WPFDemo\WPFDemo\bin\Debug\WPFDemo.exe.config
+C:\Users\007309\source\repos\WPFDemo\WPFDemo\bin\Debug\WPFDemo.exe
+C:\Users\007309\source\repos\WPFDemo\WPFDemo\bin\Debug\WPFDemo.pdb
+C:\Users\007309\source\repos\WPFDemo\WPFDemo\obj\Debug\WPFDemo.csproj.AssemblyReference.cache
+C:\Users\007309\source\repos\WPFDemo\WPFDemo\obj\Debug\WPFDemo.csproj.SuggestedBindingRedirects.cache
+C:\Users\007309\source\repos\WPFDemo\WPFDemo\obj\Debug\MainWindow.g.cs
+C:\Users\007309\source\repos\WPFDemo\WPFDemo\obj\Debug\App.g.cs
+C:\Users\007309\source\repos\WPFDemo\WPFDemo\obj\Debug\WPFDemo_MarkupCompile.cache
+C:\Users\007309\source\repos\WPFDemo\WPFDemo\obj\Debug\WPFDemo_MarkupCompile.lref
+C:\Users\007309\source\repos\WPFDemo\WPFDemo\obj\Debug\MainWindow.baml
+C:\Users\007309\source\repos\WPFDemo\WPFDemo\obj\Debug\WPFDemo.g.resources
+C:\Users\007309\source\repos\WPFDemo\WPFDemo\obj\Debug\WPFDemo.Properties.Resources.resources
+C:\Users\007309\source\repos\WPFDemo\WPFDemo\obj\Debug\WPFDemo.csproj.GenerateResource.cache
+C:\Users\007309\source\repos\WPFDemo\WPFDemo\obj\Debug\WPFDemo.csproj.CoreCompileInputs.cache
+C:\Users\007309\source\repos\WPFDemo\WPFDemo\obj\Debug\WPFDemo.exe
+C:\Users\007309\source\repos\WPFDemo\WPFDemo\obj\Debug\WPFDemo.pdb
